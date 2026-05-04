@@ -119,24 +119,3 @@ jupyter notebook NN.ipynb
   * Matplotlib / Seaborn
   * TensorFlow or PyTorch
 
----
-
-## 🔮 Possible Improvements
-
-* Try advanced imbalance methods (e.g., SMOTE, ADASYN)
-* Hyperparameter tuning for the neural network
-* Cross-validation for more robust evaluation
-* Compare with other models (e.g., Random Forest, XGBoost)
-
----
-
-
-## 👤 Author
-
-* Marco Pace
-
----
-
-## 💡 Notes
-
-This project is a practical introduction to handling **imbalanced datasets**, a common issue in real-world applications such as fraud detection, medical diagnosis, and anomaly detection.
